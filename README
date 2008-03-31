@@ -1,7 +1,8 @@
 This is a fork of AssetPackager, see original README below.
 
 Customized version:
- - YUI for js/css minification instead of jsmin
+ - More flexible/less opinionated - lets you specify asset paths
+ - YUI for js/css magnification instead of jsmin
  - Deploys assets to s3
 
 
