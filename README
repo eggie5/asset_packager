@@ -1,3 +1,10 @@
+This is a fork of AssetPackager, see original README below.
+
+Customized version:
+ - YUI for js/css minification instead of jsmin
+ - Deploys assets to s3
+
+
 = AssetPackager
 
 JavaScript and CSS Asset Compression for Production Rails Apps
